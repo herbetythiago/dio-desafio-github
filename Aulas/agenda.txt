@@ -1,0 +1,7 @@
+Roteiro das Aulas.
+
+ - Aula Inaugural
+ - Lógica de Programação
+ - SCRUM
+ - Introdução ao GIT e GITHUB
+ - Criando Primeiro Projeto
